@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi, I'm Steve👋
 
 <!--
 **SteveCh33/SteveCh33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡About Me
+
+I'm a Sr. Data Analyst who is passionate about data, machine learning, AI, and all things Data Science. I love problem-solving, developing models, and scaling solutions. I hold a Bachelors Degree in Economics and I have over ten years of experience in analytics and I've worked in the Retail & E-Commerce, Manufacturing, and Financial Services industries. Some technologies I enjoy working with include Python (Pandas, NumPy, Scikit-Learn), SQL, R, Alteryx. I also develop visualizations and dashboards utlizing platforms such as Microsoft Power BI, Tableau, and Looker.
+
+⚡What do I do?
+
+I specialize in building models to drive revenue growth by analyzing customer engagement, product classification, pricing strategy, and other economic factors. I identify opportunites to improve product performance and better pricing positions in the market. My goal is to understand products, customers, and stakeholders to develop comprehensive insights that lead to actionable strategies. I also oversee ETL processes for data systems and act as a Data Steward to ensure compliance and accuracy.
